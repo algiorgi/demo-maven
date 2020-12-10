@@ -7,6 +7,6 @@ public class MiPrimerTest {
 
     @Test
     public void miPrimeraPrueba() {
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
     }
 }
